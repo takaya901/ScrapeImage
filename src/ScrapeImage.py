@@ -1,3 +1,4 @@
+#https://qiita.com/tsuro/items/fa7bb3015feca1212732
 import os
 from urllib import request as req
 from urllib import error
